@@ -1,0 +1,9 @@
+ghz_protocol/run_ghz_b2_ibm_fez.py
+
+ghz_protocol/analyze_ghz_b2_results.py
+
+data/
+├── ghz_B2_pool_0.csv
+├── ghz_B2_pool_1.csv
+├── ghz_B2_pool_plus.csv
+└── ghz_B2_pool_minus.csv
