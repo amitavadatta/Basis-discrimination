@@ -10,7 +10,7 @@ The work demonstrates that quantum ensembles that are indistinguishable at the l
 - **Graph-state protocol** (higher-order statistical signatures)
 
 All experiments were performed on IBM Quantum hardware (`ibm_fez`) using Qiskit.
-
+The repository can be accessed from: https://doi.org/10.5281/zenodo.20371236
 ---
 
 # 📁 Repository structure
