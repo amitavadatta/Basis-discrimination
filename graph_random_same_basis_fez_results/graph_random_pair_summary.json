@@ -1,0 +1,58 @@
+{
+  "00": {
+    "family": "Z",
+    "mean_forbidden_rate": 0.0375,
+    "std_forbidden_rate": 0.01574787214113971,
+    "mean_even_rate": 0.966015625,
+    "std_even_rate": 0.014175124660061704
+  },
+  "01": {
+    "family": "Z",
+    "mean_forbidden_rate": 0.951171875,
+    "std_forbidden_rate": 0.01825606959045258,
+    "mean_even_rate": 0.955859375,
+    "std_even_rate": 0.01779268721522457
+  },
+  "10": {
+    "family": "Z",
+    "mean_forbidden_rate": 0.00390625,
+    "std_forbidden_rate": 0.004742007645835031,
+    "mean_even_rate": 0.9453125,
+    "std_even_rate": 0.019633776951173226
+  },
+  "11": {
+    "family": "Z",
+    "mean_forbidden_rate": 0.9515625,
+    "std_forbidden_rate": 0.018900166213415608,
+    "mean_even_rate": 0.953515625,
+    "std_even_rate": 0.016712754089612772
+  },
+  "++": {
+    "family": "X",
+    "mean_forbidden_rate": 0.4796875,
+    "std_forbidden_rate": 0.0488482688711742,
+    "mean_even_rate": 0.95859375,
+    "std_even_rate": 0.018643474809179925
+  },
+  "+-": {
+    "family": "X",
+    "mean_forbidden_rate": 0.4546875,
+    "std_forbidden_rate": 0.04044430970482745,
+    "mean_even_rate": 0.952734375,
+    "std_even_rate": 0.01938265845032548
+  },
+  "-+": {
+    "family": "X",
+    "mean_forbidden_rate": 0.453125,
+    "std_forbidden_rate": 0.05662112584051441,
+    "mean_even_rate": 0.953125,
+    "std_even_rate": 0.01774296793617715
+  },
+  "--": {
+    "family": "X",
+    "mean_forbidden_rate": 0.469921875,
+    "std_forbidden_rate": 0.03846374999572393,
+    "mean_even_rate": 0.954296875,
+    "std_even_rate": 0.020162496482118663
+  }
+}
